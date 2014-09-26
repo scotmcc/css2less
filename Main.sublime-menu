@@ -1,0 +1,22 @@
+[
+  {
+    "caption": "Edit",
+    "mnemonic": "n",
+    "id": "edit",
+    "children":
+    [
+      {
+        "caption": "Convert",
+        "mnemonic": "C",
+        "id": "convert-css",
+        "children":
+        [
+          {
+            "command": "css_to_less",
+            "caption": "CSS 2 LESS"
+          }
+        ]
+      }
+    ]
+  }
+]
